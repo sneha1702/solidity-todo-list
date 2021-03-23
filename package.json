@@ -1,5 +1,5 @@
 {
-  "name": "eth-todo-list",
+  "name": "solidity-todo-list",
   "version": "1.0.0",
   "description": "Blockchain Todo List Powered By Ethereum",
   "main": "truffle-config.js",
@@ -10,7 +10,7 @@
     "dev": "lite-server",
     "test": "echo \"Error: no test specified\" && sexit 1"
   },
-  "author": "gregory@dappuniversity.com",
+  "author": "stuckinmess@gmail.com",
   "license": "ISC",
   "devDependencies": {
     "@truffle/contract": "^4.3.11",
